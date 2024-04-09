@@ -1,17 +1,19 @@
 # BUS RESERVATION SYSTEM
 
-PROJECT CREATED BY : 
+## PROJECT CREATED BY : 
+
 Gowtham R
+
 6235 - AVS College of Technology
 
 
-LOGIN DETAILS:
+## LOGIN DETAILS:
 
 UNAME: admin
 
 Password:admin
 
-#Project Running steps:
+## Project Running steps:
 
 python manage.py makemigrations
 
